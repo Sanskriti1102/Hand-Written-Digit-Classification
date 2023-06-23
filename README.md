@@ -1,8 +1,7 @@
 #  Hand-Written-Digit-Classification
 
-## Project Description:
-### Problem statement: Create a Deep learning model to predict the different hand written digits
-ranging from 0 to 9
+### Problem statement:
+Create a Deep learning model to predict the different hand written digits ranging from 0 to 9
 ## Context: 
 MNIST ("Modified National Institute of Standards and Technology") is the de facto
 “hello world” dataset of computer vision. Since its release in 1999, this classic dataset of
