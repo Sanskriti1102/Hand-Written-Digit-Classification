@@ -29,5 +29,5 @@ Each target variable for training and test example is assigned to one of the fol
 9<br>
 These labels denote the hand written digits which can be plotted as we
 ## 
-Minor Project given to me by Verzeo
+A Minor Project given to me by Verzeo
 --
